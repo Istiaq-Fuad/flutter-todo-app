@@ -1,16 +1,5 @@
-# todo_app
+# Todo_app
 
-A new Flutter project.
+In this app users can create and delete todos and also mark them as incomplete.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![todo app homepage](https://i.ibb.co/Ms6L6Pv/todo.jpg)
